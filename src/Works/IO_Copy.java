@@ -2,6 +2,7 @@ package Works;
 
 import java.io.*;
 
+
 public class IO_Copy {
     public static void main(String[] args) throws IOException {
         File file = new File("yyh.txt");
